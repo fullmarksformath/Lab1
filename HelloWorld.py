@@ -1,2 +1,2 @@
 print("ET0735 - DevOps is a DCPE module")
-print("DCPE Year2- CES path")
+print("DCPE year-2 CES path only")
